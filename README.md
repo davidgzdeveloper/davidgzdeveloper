@@ -3,7 +3,7 @@
 
 **Arquitecto de software** · Puerto Iguazú, Misiones, Argentina
 
-Tomo ideas y las convierto en software escalable, seguro y útil. Desarrollo con Claude Code y aplico mi experiencia en programación para auditar procesos, corregir fallas de seguridad y cuidar todo el ciclo de vida del software, desde el análisis funcional hasta el mantenimiento. Combino esto con la docencia y la producción de contenido educativo técnico.
+Tomo ideas y las convierto en software escalable, seguro y útil. Desarrollo con Claude Code y aplico mi experiencia en programación para auditar procesos, corregir fallas de seguridad y cuidar todo el ciclo de vida del software, desde el análisis funcional hasta el mantenimiento. Combino esto con la docencia y la aplicacion al ámbito educativo.
 
 ---
 
